@@ -38,6 +38,5 @@ while loop > 0:
         f1pointer.write(coord)
         # Close file
         f1pointer.close()
-    loop = loop - 1
 
 
